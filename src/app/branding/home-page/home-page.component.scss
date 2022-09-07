@@ -16,11 +16,11 @@
             }
             .sm-title-homepage {
                 color: $noukha_green4;
-                font-size: 20px;
+                font-size: 25px;
                 font-family: $open_sans_regular;
                 margin-left: 0.8vw;
             }
-            
+
         }
         .homepage-content-body {
             font-size: 56px;
@@ -77,8 +77,8 @@
             display: flex;
             justify-content: space-between;
             .client-tile {
-                width: 210px;
-                height: 65px;
+                width: 200px;
+                height: 160px;
                 background-color: $noukha_green2;
                 display: flex;
                 justify-content: center;
@@ -94,7 +94,7 @@
     .what-we-do-area {
         padding: 0 9.375vw 0 9.375vw;
         .what-wedo-btn-con {
-            margin: 75px 0 48px 0; 
+            margin: 75px 0 48px 0;
             text-align: center;
             #what_we_do_btn {
                 padding: 6px 23px;
@@ -137,7 +137,7 @@
                     &:hover {
                         border: 1px solid $noukha_green4;
                     }
-    
+
                     .img-tile-con {
                         width: 70px;
                         height: 70px;
@@ -150,7 +150,7 @@
                         color: #000000;
                         margin: 15px 0 15px 0;
                     }
-    
+
                     .tile-body-txt {
                         color: #4B4B4B;
                         font-size: 18px;
@@ -167,13 +167,13 @@
                     }
                     .sm-title-homepage {
                         color: $noukha_green4;
-                        font-size: 20px;
+                        font-size: 25px;
                         font-family: $open_sans_regular;
                         margin-left: 0.8vw;
                     }
-                    
+
                 }
-            }   
+            }
         }
         .solutions-con {
             .solutions-header-txt {
@@ -191,7 +191,7 @@
                     font-size: 18px;
                     font-family: $open_sans_regular;
                     color: #4B4B4B;
-                    margin-bottom: 30px;
+                    margin-bottom: 12px;
                     &::before {
                         content: "•";
                         color: #4B4B4B;
@@ -200,7 +200,7 @@
                         margin-left: -1em;
                     }
                 }
-                
+
             }
         }
     }
@@ -214,7 +214,7 @@
         color: $noukha_green4;
         font-size: 42px;
         font-family: $open_sans_bold;
-    }          
+    }
     .client-stat-con {
         display: flex;
         justify-content: space-around;
@@ -243,7 +243,7 @@
             width: 100%;
         }
     }
-} 
+}
 
 .our-services-area {
     padding: 90px 0 65px 0;
@@ -343,7 +343,7 @@
 .portfolio-content-area {
     padding: 0 9.375vw 0 9.375vw;
     .what-wedid-btn-con {
-        margin: 75px 0 48px 0; 
+        margin: 75px 0 48px 0;
         text-align: center;
         #what_we_did_btn {
             padding: 6px 23px;
@@ -427,7 +427,7 @@
                 margin-right: 4vw;
             }
         }
-        
+
     }
 }
 
